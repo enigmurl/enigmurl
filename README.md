@@ -16,13 +16,13 @@
 ### [Titan Descent 2](https://play.google.com/store/apps/details?id=com.enigmadux.titandescent2&hl=en_US&gl=US) (closed source)
 - An Android mobile game where you control two thrusters of a rocket ship in an effort to slowly descend to the surface of Titan
 
-### MJ Tool (https://github.com/enigmurl/mjtool)
+### [MJ Tool](https://github.com/enigmurl/mjtool)
 - A desktop application I made for the CS department at Cupertino High School to view, filter, and download submissions from the updated APCS website. 
 
-### Distribution GAN (https://github.com/enigmurl/dgan)
+### [Distribution GAN](https://github.com/enigmurl/dgan)
 - A GAN that combats mode collapse by having the discriminator act on multiple instances produced by the generator
 
 ## Upcoming
 
-### Inductive Language Model (https://github.com/enigmurl/ilm)
+### [Inductive Language Model](https://github.com/enigmurl/ilm)
 - A neural network that uses its learning via a gradient descent seed stage to ultimately learn directly from input language
