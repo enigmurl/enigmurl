@@ -1,5 +1,5 @@
 # Manu Bhat (enigmurl)
-**Website** https://manusbhat.github.io/ 
+**Website** https://manubhat.com 
 
 ## Current
 
