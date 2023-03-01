@@ -26,3 +26,4 @@
 
 ### [Inductive Language Model](https://github.com/enigmurl/ilm)
 - A neural network that uses its learning via a gradient descent seed stage to ultimately learn directly from input language
+
